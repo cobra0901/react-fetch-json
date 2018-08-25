@@ -1,0 +1,23 @@
+.header-text{
+    color: red;
+    font-size: 30px;
+}
+.header-content{
+    color: firebrick;
+    font-size: 30px;
+}
+
+.item-view{
+   /*background-color: wheat;*/
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
